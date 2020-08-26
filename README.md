@@ -1,2 +1,2 @@
 # 1Press-Wallpaper
-change your wallpaper with a single key press
+change your wallpaper with a single keypress
